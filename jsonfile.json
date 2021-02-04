@@ -1,0 +1,474 @@
+[
+  {
+    "node": {
+      "id": "cXVlc3Rpb246MzE4MTUwMTk=",
+      "databaseId": 31815019,
+      "author": {
+        "id": "dXNlcjoyMDA4MTAyNg==",
+        "databaseId": 20081026,
+        "isDeleted": false,
+        "nick": "vivanovela7",
+        "avatar": null,
+        "rank": {
+          "name": "Principiante",
+          "__typename": "Rank"
+        },
+        "__typename": "User"
+      },
+      "content": "Como é Neymar?como está Neymar?",
+      "answers": {
+        "nodes": [
+          {
+            "thanksCount": 9,
+            "ratesCount": 6,
+            "rating": 4.1667,
+            "__typename": "Answer"
+          },
+          {
+            "thanksCount": 5,
+            "ratesCount": 1,
+            "rating": 5,
+            "__typename": "Answer"
+          }
+        ],
+        "hasVerified": false,
+        "__typename": "AnswerConnection"
+      },
+      "__typename": "Question"
+    },
+    "highlight": {
+      "contentFragments": [
+        "Como é <em>Neymar</em>?como está <em>Neymar</em>?"
+      ],
+      "__typename": "SearchedQuestionHighlight"
+    },
+    "__typename": "QuestionSearchEdge"
+  },
+  {
+    "node": {
+      "id": "cXVlc3Rpb246Mzc2OTg4ODk=",
+      "databaseId": 37698889,
+      "author": {
+        "id": "dXNlcjoyMjAzMDM2Mw==",
+        "databaseId": 22030363,
+        "isDeleted": false,
+        "nick": "evellynsampaio097",
+        "avatar": {
+          "thumbnailUrl": "https://pt-static.z-dn.net/files/dfe/780fd792d5d9bedb63f7a4f025dec627.jpg",
+          "__typename": "Attachment"
+        },
+        "rank": {
+          "name": "Principiante",
+          "__typename": "Rank"
+        },
+        "__typename": "User"
+      },
+      "content": "01.0 título do texto, traduzido seria:<br />A)Quem é Neymar?<br />B)O que é Neymar?<br />C)Como é Neymar?<br />D)Como está Neymar?​",
+      "answers": {
+        "nodes": [
+          {
+            "thanksCount": 1,
+            "ratesCount": 0,
+            "rating": 0,
+            "__typename": "Answer"
+          },
+          {
+            "thanksCount": 2,
+            "ratesCount": 1,
+            "rating": 5,
+            "__typename": "Answer"
+          }
+        ],
+        "hasVerified": false,
+        "__typename": "AnswerConnection"
+      },
+      "__typename": "Question"
+    },
+    "highlight": {
+      "contentFragments": [
+        "01.0 título do texto, traduzido seria: A)Quem é <em>Neymar</em>? B)O que é <em>Neymar</em>? C)Como é <em>Neymar</em>? D)Como está <em>Neymar</em>?​"
+      ],
+      "__typename": "SearchedQuestionHighlight"
+    },
+    "__typename": "QuestionSearchEdge"
+  },
+  {
+    "node": {
+      "id": "cXVlc3Rpb246Mjg2MjI2MjA=",
+      "databaseId": 28622620,
+      "author": {
+        "id": "dXNlcjoxNzc4NzQ4OQ==",
+        "databaseId": 17787489,
+        "isDeleted": false,
+        "nick": "tayssa1368",
+        "avatar": {
+          "thumbnailUrl": "https://pt-static.z-dn.net/files/df5/5d7f226ce476c5d628e7e32da83cb7c4.jpg",
+          "__typename": "Attachment"
+        },
+        "rank": {
+          "name": "Principiante",
+          "__typename": "Rank"
+        },
+        "__typename": "User"
+      },
+      "content": "o titulo do texto /traduzindo seria: (a) quem é neymar (b)o que é neymar.  (c)como é neymar (d(como estar neymar. ​",
+      "answers": {
+        "nodes": [
+          {
+            "thanksCount": 27,
+            "ratesCount": 14,
+            "rating": 4.1429,
+            "__typename": "Answer"
+          },
+          {
+            "thanksCount": 13,
+            "ratesCount": 5,
+            "rating": 4.2,
+            "__typename": "Answer"
+          }
+        ],
+        "hasVerified": false,
+        "__typename": "AnswerConnection"
+      },
+      "__typename": "Question"
+    },
+    "highlight": {
+      "contentFragments": [
+        "o titulo do texto /traduzindo seria: (a) quem é <em>neymar</em> (b)o que é <em>neymar</em>. (c)como é <em>neymar</em> (d(como estar <em>neymar</em>. ​"
+      ],
+      "__typename": "SearchedQuestionHighlight"
+    },
+    "__typename": "QuestionSearchEdge"
+  },
+  {
+    "node": {
+      "id": "cXVlc3Rpb246MzQxNDc3MjE=",
+      "databaseId": 34147721,
+      "author": {
+        "id": "dXNlcjoyMTIxODY0NA==",
+        "databaseId": 21218644,
+        "isDeleted": false,
+        "nick": "emmilycampos512",
+        "avatar": null,
+        "rank": {
+          "name": "Principiante",
+          "__typename": "Rank"
+        },
+        "__typename": "User"
+      },
+      "content": "1) Cmo seria o título do texto traduzido para o português?<br />A)Quem é Neymar?<br />C)Como é Neymar?<br />B)O que é Neymar?<br />D)Como está Neymar?​",
+      "answers": {
+        "nodes": [
+          {
+            "thanksCount": 9,
+            "ratesCount": 3,
+            "rating": 3.6667,
+            "__typename": "Answer"
+          },
+          {
+            "thanksCount": 3,
+            "ratesCount": 2,
+            "rating": 5,
+            "__typename": "Answer"
+          }
+        ],
+        "hasVerified": false,
+        "__typename": "AnswerConnection"
+      },
+      "__typename": "Question"
+    },
+    "highlight": {
+      "contentFragments": [
+        "A)Quem é <em>Neymar</em>? C)Como é <em>Neymar</em>? B)O que é <em>Neymar</em>? D)Como está <em>Neymar</em>?​"
+      ],
+      "__typename": "SearchedQuestionHighlight"
+    },
+    "__typename": "QuestionSearchEdge"
+  },
+  {
+    "node": {
+      "id": "cXVlc3Rpb246MzUxNzEwNzU=",
+      "databaseId": 35171075,
+      "author": {
+        "id": "dXNlcjoyMDE4NjUxNg==",
+        "databaseId": 20186516,
+        "isDeleted": false,
+        "nick": "limaamalia85154",
+        "avatar": {
+          "thumbnailUrl": "https://pt-static.z-dn.net/files/d95/e1c94d9e6050c58f097bb7ff9d0fd66b.jpg",
+          "__typename": "Attachment"
+        },
+        "rank": {
+          "name": "Aluno",
+          "__typename": "Rank"
+        },
+        "__typename": "User"
+      },
+      "content": "Quem é Neymar como é Neymar como está Neymar<br /><br />perguntas do texto quando Neymar começou a jogar futebol <br /><br /><br />urgente preciso que alguém responda agora ​",
+      "answers": {
+        "nodes": [
+          {
+            "thanksCount": 5,
+            "ratesCount": 6,
+            "rating": 3.6667,
+            "__typename": "Answer"
+          },
+          {
+            "thanksCount": 3,
+            "ratesCount": 4,
+            "rating": 4.25,
+            "__typename": "Answer"
+          }
+        ],
+        "hasVerified": false,
+        "__typename": "AnswerConnection"
+      },
+      "__typename": "Question"
+    },
+    "highlight": {
+      "contentFragments": [
+        "Quem é <em>Neymar</em> como é <em>Neymar</em> como está <em>Neymar</em> perguntas do texto quando <em>Neymar</em> começou a jogar futebol urgente preciso que alguém responda agora ​"
+      ],
+      "__typename": "SearchedQuestionHighlight"
+    },
+    "__typename": "QuestionSearchEdge"
+  },
+  {
+    "node": {
+      "id": "cXVlc3Rpb246MzI4MTg2Mjg=",
+      "databaseId": 32818628,
+      "author": {
+        "id": "dXNlcjoxOTcxMjEwOA==",
+        "databaseId": 19712108,
+        "isDeleted": false,
+        "nick": "juliabernasdes",
+        "avatar": {
+          "thumbnailUrl": "https://pt-static.z-dn.net/files/db3/af7ba9e46826b3b2042a91c591a56202.jpg",
+          "__typename": "Attachment"
+        },
+        "rank": {
+          "name": "Principiante",
+          "__typename": "Rank"
+        },
+        "__typename": "User"
+      },
+      "content": "<br />Resposta:<br />Qual a data de nascimento do Neymar?<br />Com quantos anos Neymar começou a jogar?<br />Qual o primeiro time profissional que o Neymar jogou?<br />Qual foi o primeiro jogo do Neymar na seleção brasileira?<br />Em qual ano o Neymar jogou sua primeira copa do mundo?<br />Contra qual time Neymar fez seu primeiro gol na seleção brasileira?​",
+      "answers": {
+        "nodes": [
+          {
+            "thanksCount": 0,
+            "ratesCount": 3,
+            "rating": 3.6667,
+            "__typename": "Answer"
+          },
+          {
+            "thanksCount": 0,
+            "ratesCount": 1,
+            "rating": 1,
+            "__typename": "Answer"
+          }
+        ],
+        "hasVerified": false,
+        "__typename": "AnswerConnection"
+      },
+      "__typename": "Question"
+    },
+    "highlight": {
+      "contentFragments": [
+        "Resposta: Qual a data de nascimento do <em>Neymar</em>? Com quantos anos <em>Neymar</em> começou a jogar? Qual o primeiro time profissional que o <em>Neymar</em> jogou?",
+        "Qual foi o primeiro jogo do <em>Neymar</em> na seleção brasileira? Em qual ano o <em>Neymar</em> jogou sua primeira copa do mundo?",
+        "Contra qual time <em>Neymar</em> fez seu primeiro gol na seleção brasileira?​"
+      ],
+      "__typename": "SearchedQuestionHighlight"
+    },
+    "__typename": "QuestionSearchEdge"
+  },
+  {
+    "node": {
+      "id": "cXVlc3Rpb246MzI4MTg2MjI=",
+      "databaseId": 32818622,
+      "author": {
+        "id": "dXNlcjoxOTcxMjEwOA==",
+        "databaseId": 19712108,
+        "isDeleted": false,
+        "nick": "juliabernasdes",
+        "avatar": {
+          "thumbnailUrl": "https://pt-static.z-dn.net/files/db3/af7ba9e46826b3b2042a91c591a56202.jpg",
+          "__typename": "Attachment"
+        },
+        "rank": {
+          "name": "Principiante",
+          "__typename": "Rank"
+        },
+        "__typename": "User"
+      },
+      "content": "<br />Resposta:<br />Qual a data de nascimento do Neymar?<br />Com quantos anos Neymar começou a jogar?<br />Qual o primeiro time profissional que o Neymar jogou?<br />Qual foi o primeiro jogo do Neymar na seleção brasileira?<br />Em qual ano o Neymar jogou sua primeira copa do mundo?<br />Contra qual time Neymar fez seu primeiro gol na seleção brasileira?<br /><br />pf é pra hj mais tarde.​",
+      "answers": {
+        "nodes": [
+          {
+            "thanksCount": 2,
+            "ratesCount": 1,
+            "rating": 5,
+            "__typename": "Answer"
+          },
+          {
+            "thanksCount": 0,
+            "ratesCount": 0,
+            "rating": 0,
+            "__typename": "Answer"
+          }
+        ],
+        "hasVerified": false,
+        "__typename": "AnswerConnection"
+      },
+      "__typename": "Question"
+    },
+    "highlight": {
+      "contentFragments": [
+        "Resposta: Qual a data de nascimento do <em>Neymar</em>? Com quantos anos <em>Neymar</em> começou a jogar? Qual o primeiro time profissional que o <em>Neymar</em> jogou?",
+        "Qual foi o primeiro jogo do <em>Neymar</em> na seleção brasileira? Em qual ano o <em>Neymar</em> jogou sua primeira copa do mundo?",
+        "Contra qual time <em>Neymar</em> fez seu primeiro gol na seleção brasileira? pf é pra hj mais tarde.​"
+      ],
+      "__typename": "SearchedQuestionHighlight"
+    },
+    "__typename": "QuestionSearchEdge"
+  },
+  {
+    "node": {
+      "id": "cXVlc3Rpb246MzQ1Mzc4MTI=",
+      "databaseId": 34537812,
+      "author": {
+        "id": "dXNlcjoxNTQ2NTY2NA==",
+        "databaseId": 15465664,
+        "isDeleted": false,
+        "nick": "marlyson96",
+        "avatar": {
+          "thumbnailUrl": "https://pt-static.z-dn.net/files/df8/f4ffb1382b2b88e142395e18f1fdff95.jpg",
+          "__typename": "Attachment"
+        },
+        "rank": {
+          "name": "Ambicioso",
+          "__typename": "Rank"
+        },
+        "__typename": "User"
+      },
+      "content": "<br />Passando a frase a seguir para a forma interrogativa, temos: \"Neymar played soccer last night.\" *<br /><br />1 ponto<br /><br />￼<br /><br />Neymar played soccer last night?<br /><br />Did Neymar play soccer last night?<br /><br />Did Neymar played soccer last night?<br /><br />Does Neymar played soccer last night?<br /><br />Neymar did play soccer last night?<br /><br /><br />​",
+      "answers": {
+        "nodes": [
+          {
+            "thanksCount": 0,
+            "ratesCount": 0,
+            "rating": 0,
+            "__typename": "Answer"
+          }
+        ],
+        "hasVerified": false,
+        "__typename": "AnswerConnection"
+      },
+      "__typename": "Question"
+    },
+    "highlight": {
+      "contentFragments": [
+        "Passando a frase a seguir para a forma interrogativa, temos: \"<em>Neymar</em> played soccer last night.\" * 1 ponto ￼ <em>Neymar</em> played soccer last night?",
+        "Did <em>Neymar</em> play soccer last night? Did <em>Neymar</em> played soccer last night? Does <em>Neymar</em> played soccer last night? <em>Neymar</em> did play soccer last night? ​"
+      ],
+      "__typename": "SearchedQuestionHighlight"
+    },
+    "__typename": "QuestionSearchEdge"
+  },
+  {
+    "node": {
+      "id": "cXVlc3Rpb246MzYxMDMxOTg=",
+      "databaseId": 36103198,
+      "author": {
+        "id": "dXNlcjoyMjcxNDgzMQ==",
+        "databaseId": 22714831,
+        "isDeleted": false,
+        "nick": "guilhermeabreu5320",
+        "avatar": null,
+        "rank": {
+          "name": "Principiante",
+          "__typename": "Rank"
+        },
+        "__typename": "User"
+      },
+      "content": "where is Neymar Júnior from?(de onde e Neymar Júnior?)​",
+      "answers": {
+        "nodes": [
+          {
+            "thanksCount": 23,
+            "ratesCount": 10,
+            "rating": 4.5,
+            "__typename": "Answer"
+          },
+          {
+            "thanksCount": 11,
+            "ratesCount": 5,
+            "rating": 4.8,
+            "__typename": "Answer"
+          }
+        ],
+        "hasVerified": false,
+        "__typename": "AnswerConnection"
+      },
+      "__typename": "Question"
+    },
+    "highlight": {
+      "contentFragments": [
+        "where is <em>Neymar</em> Júnior from?(de onde e <em>Neymar</em> Júnior?)​"
+      ],
+      "__typename": "SearchedQuestionHighlight"
+    },
+    "__typename": "QuestionSearchEdge"
+  },
+  {
+    "node": {
+      "id": "cXVlc3Rpb246MzY0OTE3MjY=",
+      "databaseId": 36491726,
+      "author": {
+        "id": "dXNlcjoxOTY2NDc3MQ==",
+        "databaseId": 19664771,
+        "isDeleted": false,
+        "nick": "fernandaandrade3489",
+        "avatar": {
+          "thumbnailUrl": "https://pt-static.z-dn.net/files/d81/f2282690c5aff1564feb3e4a1c4fb590.jpg",
+          "__typename": "Attachment"
+        },
+        "rank": {
+          "name": "Principiante",
+          "__typename": "Rank"
+        },
+        "__typename": "User"
+      },
+      "content": "Assinale a alternativa em que a frase:“Neymar played soccer yesterday.\" , Esteja em sua forma correta na negativa.<br />\nA) Neymar doesn’t played soccer yesterday.<br />\nB) Neymar didn't played soccer yesterday.<br />\nC) Neymar didn't soccer yesterday.<br />\nD) Neymar not play soccer yesterday.",
+      "answers": {
+        "nodes": [
+          {
+            "thanksCount": 2,
+            "ratesCount": 2,
+            "rating": 3,
+            "__typename": "Answer"
+          },
+          {
+            "thanksCount": 2,
+            "ratesCount": 1,
+            "rating": 5,
+            "__typename": "Answer"
+          }
+        ],
+        "hasVerified": false,
+        "__typename": "AnswerConnection"
+      },
+      "__typename": "Question"
+    },
+    "highlight": {
+      "contentFragments": [
+        "Assinale a alternativa em que a frase:“<em>Neymar</em> played soccer yesterday.\" , Esteja em sua forma correta na negativa.",
+        "A) <em>Neymar</em> doesn’t played soccer yesterday. B) <em>Neymar</em> didn't played soccer yesterday. C) <em>Neymar</em> didn't soccer yesterday.",
+        "D) <em>Neymar</em> not play soccer yesterday."
+      ],
+      "__typename": "SearchedQuestionHighlight"
+    },
+    "__typename": "QuestionSearchEdge"
+  }
+]

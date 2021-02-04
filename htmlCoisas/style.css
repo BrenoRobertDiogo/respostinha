@@ -1,0 +1,92 @@
+
+
+
+
+
+
+#botaoPergunta, #textoPergunta {
+  height: 40px;
+  
+}
+
+#textoPergunta {
+  background-color: rgb(216, 214, 214);
+  width: 200px;
+  border-radius: 10px;
+  border: none
+}
+
+#botaoPergunta {
+  transition: all 1s;
+  border-radius: 10px;
+  width: 100px;
+  border: none;
+  background-color:  rgba(140, 0, 255, 0.8);
+  color: black;
+}
+#botaoPergunta:hover{
+  background-color: rgb(140, 0, 255, 255);
+  color: white;
+}
+
+#pergunta {
+  margin: 0 auto;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  width: 50%;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: sans-serif;
+  }
+
+  /* Float four columns side by side */
+  .column {
+    float: left;
+    width: 33%;
+    padding: 0 10px;
+  }
+
+  /* Remove extra left and right margins, due to padding in columns */
+  .row {
+    /* margin: 0 -5px; */
+    padding: 10px;
+  }
+
+  /* Clear floats after the columns */
+  /* .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  } */
+
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* this adds the "card" effect */
+    padding: 16px;
+    margin-bottom: 20px;
+    text-align: left;
+    background-color: #cccccc;
+    display: flex;
+  }
+
+  /* Responsive columns - one column layout (vertical) on small screens */
+  @media screen and (max-width: 600px) and (min-width: 300px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  @media screen and (max-width: 900px) and (min-width: 601px) {
+    .column {
+      width: 50%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
